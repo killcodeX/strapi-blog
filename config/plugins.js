@@ -12,5 +12,3 @@ module.exports = ({ env }) => ({
       },
     },
   });
-
-  console.log(env('CLOUDINARY_NAME'))
